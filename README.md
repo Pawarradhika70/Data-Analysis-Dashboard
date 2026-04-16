@@ -10,6 +10,10 @@ The dataset used for this project is available here:
 * The organization has a diverse workforce distributed across multiple departments and job roles.
 * Employee demographics show a balanced mix of age groups, with a majority falling in the mid-career range (26–35 years).
 * Average tenure indicates a moderate retention level, with opportunities to improve long-term engagement.
+  
+# DashBoard
+<img width="1536" height="1024" alt="Dashboard HR_Analysis" src="https://github.com/user-attachments/assets/7c53220a-7e54-4664-94c9-f1008a8213f1" />
+
 
 # Attrition Analysis
 * The overall attrition rate highlights a significant percentage of employees leaving the organization.
