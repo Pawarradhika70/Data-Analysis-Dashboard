@@ -14,7 +14,6 @@ The dataset used for this project is available here:
 # Dashboard
 <img width="1536" height="1024" alt="Dashboard HR_Analysis" src="https://github.com/user-attachments/assets/7c53220a-7e54-4664-94c9-f1008a8213f1" />
 
-
 # Attrition Analysis
 * The overall attrition rate highlights a significant percentage of employees leaving the organization.
 * A noticeable trend shows higher attrition among employees with **lower years of experience**, indicating early-stage dissatisfaction or mismatch.
@@ -61,6 +60,6 @@ Based on the analysis, the primary factors influencing employee attrition includ
 * Focus on **department-specific retention strategies**
 * Conduct regular **employee feedback and satisfaction surveys**
 
-##Conclusion
+## Conclusion
 
 This HR analysis provides a data-driven understanding of workforce dynamics and attrition patterns. By leveraging these insights, organizations can implement targeted strategies to improve employee satisfaction, reduce turnover, and enhance overall productivity.
