@@ -1,6 +1,6 @@
-# Data-Analysis-Dashboard
+# Data-Analysis-Dashboard Using Power BI
 This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee data, identify attrition trends, and support data-driven HR decisions.
-# Data Set Used
+# Dataset Used
 ## 📂 Dataset
 The dataset used for this project is available here:  
 [Download Dataset]
@@ -11,7 +11,7 @@ The dataset used for this project is available here:
 * Employee demographics show a balanced mix of age groups, with a majority falling in the mid-career range (26–35 years).
 * Average tenure indicates a moderate retention level, with opportunities to improve long-term engagement.
   
-# DashBoard
+# Dashboard
 <img width="1536" height="1024" alt="Dashboard HR_Analysis" src="https://github.com/user-attachments/assets/7c53220a-7e54-4664-94c9-f1008a8213f1" />
 
 
